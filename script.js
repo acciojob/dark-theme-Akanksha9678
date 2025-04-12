@@ -1,6 +1,6 @@
 //your code here
 
-let mode=document.querySelector("#swap");
+let mode=document.querySelector(".button_night");
         let currentMode="Light";
 
         mode.addEventListener("click",()=>{
